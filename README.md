@@ -1,2 +1,2 @@
 # CardiovascularDiseasePrediction
-CardiovascularDiseasePrediction
+Predicción de cardiopatia estructural
